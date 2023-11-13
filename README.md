@@ -1,1 +1,1 @@
-# Todo-Sequlize
+# TODO PROJECT WITH SEQUELIZE
